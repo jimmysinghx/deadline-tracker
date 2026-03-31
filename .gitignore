@@ -5,3 +5,5 @@ target/
 *.iml
 .vscode/
 *.log
+tasks.db
+dependency-reduced-pom.xml
