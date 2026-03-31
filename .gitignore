@@ -7,3 +7,4 @@ target/
 *.log
 tasks.db
 dependency-reduced-pom.xml
+*.db
